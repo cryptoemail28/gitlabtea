@@ -1,1 +1,1 @@
-console.log("Hello, this is a sample npm project!");
+console.log("Hello, this is a npm project!");
